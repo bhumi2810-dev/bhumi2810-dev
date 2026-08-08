@@ -13,7 +13,7 @@ B.E CSE Student at Chitkara University
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bhumi2827&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=bhumi2810-dev&style=for-the-badge&color=blue"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ B.E CSE Student at Chitkara University
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhumi2827&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=bhumi2810-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
@@ -73,13 +73,13 @@ B.E CSE Student at Chitkara University
 # 📈 GitHub Summary
 
 <p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhumi2827&theme=tokyonight"/>
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhumi2827&theme=tokyonight&utcOffset=5.5"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhumi2810-dev&theme=tokyonight"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhumi2810-dev&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhumi2827&theme=tokyonight"/>
-  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhumi2827&theme=tokyonight"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhumi2810-dev&theme=tokyonight"/>
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhumi2810-dev&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ B.E CSE Student at Chitkara University
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumi2827&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhumi2810-dev&theme=tokyonight" />
 </p>
 
 ---
@@ -95,7 +95,7 @@ B.E CSE Student at Chitkara University
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/bhumi2728">
+<a href="https://github.com/bhumi2810-dev">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
