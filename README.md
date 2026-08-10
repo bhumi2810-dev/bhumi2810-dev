@@ -2,10 +2,10 @@
 <!--        PROFILE            -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Bhumi</h1>
+<h1 align="center">Hi , I'm Bhumi</h1>
 
 <h3 align="center">
-B.E CSE Student at Chitkara University
+B.Tech CSE Student at Chitkara University
 </h3>
 
 <p align="center">
