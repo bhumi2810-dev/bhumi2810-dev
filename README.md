@@ -52,16 +52,7 @@ B.Tech CSE Student at Chitkara University
 </p>
 
 ---
-🏆 Certifications & Activities
-☁️ Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-📊 Data Analytics Job Simulation – Deloitte
-☁️ Introduction to Cloud Infrastructure
-🔐 Cyber Security Fundamentals
-🌍 Campus Ambassador – GirlScript Summer of Code (GSSoC '25)
-⚡ HackIndia Spark 7 Participant – built RakshakPath
-🧩 Active on Codewars, sharpening problem-solving skills
 
----
 # 📌 Current Focus
 
 - 🚍 Real-Time Bus Tracker System  
