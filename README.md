@@ -54,8 +54,6 @@ B.Tech CSE Student at Chitkara University
 ---
 
 # 📌 Current Focus
-
-- 🚍 Real-Time Bus Tracker System  
 - 🌐 Full-Stack Web Development  
 - 💻 Java + DSA  
 - ⚛️ Learning React  
