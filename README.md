@@ -63,7 +63,10 @@ B.Tech CSE Student at Chitkara University
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhumi2810-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img
+    src="https://streak-stats.demolab.com/?user=bhumi2810-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
