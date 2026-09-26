@@ -128,16 +128,6 @@ Learning to build complete web applications.
 
 
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bhumi2810-dev&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
 
 ---
 
